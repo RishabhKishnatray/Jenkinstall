@@ -1,5 +1,5 @@
 ---
-  - hosts: jnk2
+  - hosts: zzz
     become: true
     roles:
         - jenkins
